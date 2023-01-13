@@ -11,6 +11,8 @@
   <li>Keyboard movement and input</li>
   <li>Note inserts and enter confirmation</li>
   <li>Validation of input</li>
+  <li>Keep track of game duration</li>
+  <li>Keep track of mistakes made</li>
   <li>Hint for selection</li>
   <li>Visual solver</li>
 </ul>
