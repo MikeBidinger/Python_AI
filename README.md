@@ -6,4 +6,3 @@
 <ul>
   <li>Sudoku Game (AI Solver)</li>
 </ul>
-<p>Special thanks to YouTubers Tech With Tim and Coding With Russ for sharing the knowledge! &#128521;</p>
