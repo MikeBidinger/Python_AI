@@ -7,6 +7,7 @@
 </ul>
 <p>Functionality:</p>
 <ul>
+  <li>Loading different games (boards)</li>
   <li>Mouse selection with highlighting</li>
   <li>Keyboard movement and input</li>
   <li>Note inserts and enter confirmation</li>
