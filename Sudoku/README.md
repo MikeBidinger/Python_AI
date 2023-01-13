@@ -17,4 +17,5 @@
   <li>Display of mistakes made</li>
   <li>Hint for selection</li>
   <li>Visual (delayed) solver</li>
+  <li>...</li>
 </ul>
