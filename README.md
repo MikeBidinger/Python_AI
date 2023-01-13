@@ -4,5 +4,5 @@
 <br><br>
 <p>List of projects:</p>
 <ul>
-  <li>Sudoku Game (AI Solver)</li>
+  <li>Sudoku (AI Solver)</li>
 </ul>
