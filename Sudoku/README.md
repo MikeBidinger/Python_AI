@@ -7,10 +7,10 @@
 </ul>
 <p>Functionality:</p>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Mouse selection with highlighting</li>
+  <li>Keyboard movement and input</li>
+  <li>Note inserts and enter confirmation</li>
+  <li>Validation of input</li>
+  <li>Hint for selection</li>
+  <li>Visual solver</li>
 </ul>
