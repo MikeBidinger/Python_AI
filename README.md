@@ -5,5 +5,5 @@
 <p>List of projects:</p>
 <ul>
   <li>Sudoku Solver (Backtracking algorithm (recursion))</li>
-  <li>Maze Solver ()</li>
+  <li>Maze Solver (Breadth First Search algorithm (queue))</li>
 </ul>
