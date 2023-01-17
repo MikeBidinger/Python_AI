@@ -3,5 +3,5 @@
 <p>Techniques:</p>
 <ul>
   <li>GUI: Pygame</li>
-  <li>AI: Breadth First Search algorithm</li>
+  <li>AI: Breadth First Search algorithm (queue)</li>
 </ul>
