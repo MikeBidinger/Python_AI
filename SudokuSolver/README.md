@@ -1,4 +1,4 @@
-<h1>Sudoku</h1>
+<h1>Sudoku Solver</h1>
 <h3>A Sudoku game with GUI and AI solver</h3>
 <p>Techniques:</p>
 <ul>
