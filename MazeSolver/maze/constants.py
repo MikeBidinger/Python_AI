@@ -2,7 +2,7 @@ import pygame
 
 pygame.font.init()
 
-BLOCK_W, BLOCK_H = (25, 25)
+BLOCK_W, BLOCK_H = (50, 50)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
