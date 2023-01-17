@@ -4,5 +4,6 @@
 <br><br>
 <p>List of projects:</p>
 <ul>
-  <li>Sudoku (AI Solver)</li>
+  <li>Sudoku Solver</li>
+  <li>Maze Solver</li>
 </ul>
