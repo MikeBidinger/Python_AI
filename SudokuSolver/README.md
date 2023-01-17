@@ -3,7 +3,7 @@
 <p>Techniques:</p>
 <ul>
   <li>GUI: Pygame</li>
-  <li>AI: Backtracking algorithm (Recursion)</li>
+  <li>AI: Backtracking algorithm (recursion)</li>
 </ul>
 <p>Functionality:</p>
 <ul>
