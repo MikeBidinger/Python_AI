@@ -4,6 +4,6 @@
 <br><br>
 <p>List of projects:</p>
 <ul>
-  <li>Sudoku Solver</li>
-  <li>Maze Solver</li>
+  <li>Sudoku Solver (Backtracking algorithm (recursion))</li>
+  <li>Maze Solver ()</li>
 </ul>
